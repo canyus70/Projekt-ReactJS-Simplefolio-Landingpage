@@ -1,0 +1,11 @@
+.listofprojects {
+    display: flex;
+    justify-content: center;
+}
+
+.listofprojects > div {
+    border: 1px solid white;
+    margin: 2%;
+    padding: 1%;
+    box-shadow: 10px 10px 15px silver ;
+}
