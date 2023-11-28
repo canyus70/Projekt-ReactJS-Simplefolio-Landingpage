@@ -14,3 +14,8 @@
 .wrapper h4{
     padding: 4%;
 }
+
+
+.skills > div:hover {
+    transform: translate(0, -5%);
+}
